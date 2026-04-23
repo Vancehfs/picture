@@ -1,0 +1,8 @@
+{
+  "id": "2026-04-23-1",
+  "enabled": true,
+  "level": "info",
+  "message": "系统将于今晚 23:00 维护，预计 30 分钟",
+  "linkText": "查看详情",
+  "linkUrl": "https://github.com/<owner>/<repo>/issues/1"
+}
