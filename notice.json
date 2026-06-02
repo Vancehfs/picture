@@ -1,6 +1,6 @@
 {
-  "id": "13",
+  "id": "14",
   "enabled": true,
   "level": "info",
-  "message": "新版本7.6.2已发布"
+  "message": "在线版本v8已发布，请访问http://192.168.8.113/emailQuery_online.html"
 }
