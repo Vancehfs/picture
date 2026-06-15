@@ -1,6 +1,6 @@
 {
-  "id": "14",
+  "id": "15",
   "enabled": true,
   "level": "info",
-  "message": "在线版本v8已发布，请访问http://192.168.8.113/emailQuery_online.html"
+  "message": "v8.4更新:首页的按钮功能区新增一键更换spotify子账号"
 }
